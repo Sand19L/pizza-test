@@ -28,6 +28,10 @@ RECIPES = {
         'ingredients': {'garlic': 5, 'pepper': 4, 'parmesan': 2},
         'price': 10,
     },
+    'sandrine': {
+        'ingredients': {'roquefort': 4, 'pepper': 5, 'onion': 4, 'ham': 3},
+        'price': 12,
+    },
     'ultima': {
         'ingredients': {'gorgonzola': 4, 'pepper': 5, 'onion': 4, 'ham': 3},
         'price': 12,
